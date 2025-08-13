@@ -13,6 +13,8 @@
 
 
 // Function expression
+
+
 // let sum = function (){
 
 
@@ -32,6 +34,12 @@
 //     console.log(a+b);
     
 // }
+
+// var hello = ()=>{
+//    console.log("hello");
+    
+// }
+// hello()
 
 // sum(20 , 30)
 
@@ -76,6 +84,5 @@
 
 // console.log(arr.indexOf(40));
 // console.log(arr.includes(35));
-
 
 
